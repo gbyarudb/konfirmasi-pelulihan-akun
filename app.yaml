@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: konfirmasi-pelulihan-akun
+owner: angialoisius
+package: .
+scaling:
+  mode: single_concurrency
