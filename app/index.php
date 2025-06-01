@@ -214,7 +214,7 @@
 <script>
   function goToNextPage(isUser) {
     const status = isUser ? 'yes' : 'no';
-    window.location.href = `page2.html?aktivitas=${status}`;
+    window.location.href = `app/info.php?aktivitas=${status}`;
   }
 </script>
 
